@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0142/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 事師法五十頌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1687.xml
+    old_id: T32n1687
+hash: sha256:af55c44da97f4ac07eac4f0139a088be86c9ce2f571f1bb73bf9345924a65244

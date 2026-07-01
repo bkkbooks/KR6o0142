@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0142/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0142/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 事師法五十頌
+  identifiers:
+    krp: KR6o0142
+    cbeta: T32n1687
+    cbeta_old_id: T32n1687
+    authorityid: CA0003103
+    json_key: T1687
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1687.xml
+    old_id: T32n1687
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0142_000-T.yaml, hash: 'sha256:af55c44da97f4ac07eac4f0139a088be86c9ce2f571f1bb73bf9345924a65244'}
+  - {seq: 1, filename: KR6o0142_001-T.yaml, hash: 'sha256:2cd823adcaaf02b8802f7bbee06ec00f78e59b85a6616a6dab92cb82e73f7b7f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0142_000-T.markers.yaml, hash: 'sha256:77e5b3a1b804050e0369db99612398d36e308085df5a2179e3bfdb5817b5e233'}
+  - {seq: 1, role: markers, filename: assets/KR6o0142_001-T.markers.yaml, hash: 'sha256:60000e3cffe989c0a7487b4a2dfcd9ebdd7d73ba482ec1c817da1b0a7348d1c7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0142_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1086
+  label: 事師法五十頌馬鳴菩薩集
+  type: juan
+  level: 1
+hash: sha256:7d9eed9e454a94856484e0f15cbe5017e0b8da400c38996ccda1e076c5759caf
