@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0142_000.yaml, hash: 'sha256:af55c44da97f4ac07eac4f0139a088be86c9ce2f571f1bb73bf9345924a65244'}
-  - {seq: 1, filename: KR6o0142_001.yaml, hash: 'sha256:859e74aee74766fde8922a19bae0111fadabe7d7ab3a74a098e37cf4c92bb63a'}
+  - {seq: 1, filename: KR6o0142_001.yaml, hash: 'sha256:2cd823adcaaf02b8802f7bbee06ec00f78e59b85a6616a6dab92cb82e73f7b7f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0142_001.markers.yaml, hash: 'sha256:7e29939539b14002509533647b3f5dfcf9c3fe2b1bea16bfaf98d62ab9c37fc2'}
+  - {seq: 0, role: markers, filename: assets/KR6o0142_000.markers.yaml, hash: 'sha256:52a821005661f11e652658d913a50ad42e77c089e1dcd6a7eb3dd3e8277eba05'}
+  - {seq: 1, role: markers, filename: assets/KR6o0142_001.markers.yaml, hash: 'sha256:fa187f90f356c801ac01fc79fab4a191122d43f3d0db1a895c68224a96370b88'}
 table_of_contents:
 - ref:
     seq: 1
@@ -39,7 +40,4 @@ table_of_contents:
   label: 事師法五十頌馬鳴菩薩集
   type: juan
   level: 1
-hash: sha256:b446da8f1a75fbc52c5012dadd7d01886fd1dbeecb311b6faa0c958290556460
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:01943f2987540abcf19c78b6a4013ce6a529bf501846e9969e34ee0ed8baff0c
