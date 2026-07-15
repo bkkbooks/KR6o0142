@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0142/v1
 canonical_location: https://kanripo.org/bkk/KR6o0142/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 事師法五十頌
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0142_000.yaml, hash: 'sha256:af55c44da97f4ac07eac4f0139a088be86c9ce2f571f1bb73bf9345924a65244'}
-  - {seq: 1, filename: KR6o0142_001.yaml, hash: 'sha256:2cd823adcaaf02b8802f7bbee06ec00f78e59b85a6616a6dab92cb82e73f7b7f'}
+  - {seq: 1, filename: KR6o0142_001.yaml, hash: 'sha256:8c523e4e95aef90ee28ed62a86a7d07075595e53e42cc577cf39160e4192e343'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0142_000.markers.yaml, hash: 'sha256:52a821005661f11e652658d913a50ad42e77c089e1dcd6a7eb3dd3e8277eba05'}
-  - {seq: 1, role: markers, filename: assets/KR6o0142_001.markers.yaml, hash: 'sha256:fa187f90f356c801ac01fc79fab4a191122d43f3d0db1a895c68224a96370b88'}
+  - {seq: 1, role: markers, filename: assets/KR6o0142_001.markers.yaml, hash: 'sha256:79f50fe39ca4cad60eb613d806f6f04b6f5fbb0932829a5108cb3873b9a83fde'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 事師法五十頌馬鳴菩薩集
   type: juan
   level: 1
-hash: sha256:01943f2987540abcf19c78b6a4013ce6a529bf501846e9969e34ee0ed8baff0c
+hash: sha256:9fb653ec741c65fcd6327ba87bf3cd4d89c9d96f0b62a359653e44ea5d490a5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
